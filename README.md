@@ -42,11 +42,11 @@ El proyecto está compuesto por dos archivos principales:
 
 1. **Ejecutar el Servidor**:
    ```bash
-   python servidor.py
+   python receiverRsaTrasp.py
    ```
 2. **Ejecutar el Cliente**:
    ```bash
-   python cliente.py
+   python senderRsaTrasp.py
    ```
 
    ## Ejemplo de Uso
@@ -64,7 +64,6 @@ El proyecto está compuesto por dos archivos principales:
 
 Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor envía un pull request o abre un issue para discutir los cambios que deseas realizar.
 
-Asegúrate de sustituir `servidor.py` y `cliente.py` con los nombres reales de tus archivos si son diferentes.
 
 
    
